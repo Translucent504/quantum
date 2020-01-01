@@ -6,6 +6,8 @@
   - [Michael Nielsen Quantum Country](https://quantum.country/qcvc)
   - [Michael Nielsen short videos](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/)
   - [Nielsen and Chuang book](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
+  - [Book for CS people](https://www.fi.muni.cz/usr/gruska/qbook1.pdf)
+  - [another book suggestion from reddit Polak?](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
   - [Some theoretical physics guy from reddit (frank?) ](https://cnot.io/)
   - [IBM's thing qiskit or whatever](https://community.qiskit.org/textbook/)
   - [Book from zia "prog qc essential algos and samples](https://drive.google.com/file/d/1WsnTkXXHFtyR02ua8BdIqZGXhCWxR5bl/view?fbclid=IwAR2UAf6YY4CDD0UbcfMBkXKBjSjiN73FuVZf5B1-2N_ryp5iKGRqvPWwDzU)
